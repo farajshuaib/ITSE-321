@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Tokenizer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Tokenizer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
